@@ -310,6 +310,33 @@ queuestorm-investigator/
 | Empty transaction history | `insufficient_data` |
 
 
+## ⚠️ Known Limitations
+
+1. **Language Support**
+   - Full support for English
+   - Basic support for Bangla (pattern matching only)
+   - Mixed Banglish may not be fully recognized
+
+2. **Transaction Matching**
+   - Uses heuristic scoring (0.0 - 1.0)
+   - May not correctly identify the right transaction in ambiguous cases
+   - No natural language understanding for complex complaints
+
+3. **Edge Cases**
+   - Multiple transactions with same amount to different counterparties
+   - Complaints without any transaction history
+   - Extremely long or malformed complaint text
+
+4. **Performance**
+   - Response time: ~300-800ms on Render free tier
+   - May increase with larger transaction histories
+
+5. **No LLM**
+   - Cannot understand nuanced language
+   - Cannot generate custom responses beyond templates
+   - Limited to predefined patterns and rules
+
+
 
 ## 👥 Team
 
