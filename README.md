@@ -336,11 +336,7 @@ queuestorm-investigator/
 | Bangla complaint | Supports Bangla language |
 | Empty transaction history | `insufficient_data` |
 
-### Run Test Suite
 
-```bash
-python test_suite.py
-```
 
 ---
 
