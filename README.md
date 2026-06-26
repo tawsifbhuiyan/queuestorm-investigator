@@ -260,19 +260,7 @@ curl -X POST http://localhost:8000/analyze-ticket \
   -d @sample_request.json
 ```
 
----
 
-## 🐳 Docker Deployment
-
-```bash
-# Build the image
-docker build -t queuestorm-investigator .
-
-# Run the container
-docker run -p 8000:8000 queuestorm-investigator
-```
-
----
 
 ## 📁 Project Structure
 
@@ -302,22 +290,7 @@ queuestorm-investigator/
 | `PORT` | Server port | `8000` |
 | `ENVIRONMENT` | Runtime environment | `production` |
 
----
 
-## 📋 Submission Requirements Checklist
-
-- [x] GET /health returns `{"status": "ok"}`
-- [x] POST /analyze-ticket accepts JSON and returns structured response
-- [x] All required fields present in response
-- [x] Evidence-based reasoning implemented
-- [x] Case classification working
-- [x] Safety guardrails enforced
-- [x] Human review escalation implemented
-- [x] Deployment on Render
-- [x] README complete with setup, API, and AI usage
-- [x] Sample output included
-
----
 
 ## 🧪 Testing
 
@@ -337,14 +310,6 @@ queuestorm-investigator/
 | Empty transaction history | `insufficient_data` |
 
 
-
----
-
-## 📄 License
-
-This project was created for the **SUST CSE Carnival 2026** hackathon.
-
----
 
 ## 👥 Team
 
@@ -383,20 +348,7 @@ curl -X POST https://queuestorm-investigator-2.onrender.com/analyze-ticket \
 
 ---
 
-## 📝 What This README Includes
 
-| Section | Purpose |
-|---------|---------|
-| **Overview** | What the project does |
-| **Live API** | Where judges can test it |
-| **API Endpoints** | How to use the API |
-| **Case Classification** | Supported case types |
-| **Safety Rules** | Security compliance |
-| **Architecture** | How it works |
-| **Local Development** | Run it yourself |
-| **Project Structure** | File organization |
-| **Testing** | How it was tested |
-| **Submission Checklist** | Requirements met |
 
 
 
