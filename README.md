@@ -382,16 +382,6 @@ curl -X POST https://queuestorm-investigator-2.onrender.com/analyze-ticket \
   }'
 ```
 
----
-
-## 📞 Support
-
-For questions about the submission, refer to:
-- [Problem Statement](./SUST_Preli_Problem_Statement.pdf)
-- [Team Instructions Manual](./SUST_Preli_Team_Instructions_Manual.pdf)
-- [Evaluation Rubric](./SUST_Preli_Evaluation_Rubric_With_Explanations.pdf)
-
----
 
 **Built with ❤️ for SUST CSE Carnival 2026**
 ```
