@@ -9,10 +9,10 @@
 > AI/API SupportOps Challenge for Digital Finance  
 > SUST CSE Carnival 2026 · Codex Community Hackathon
 
-[![Live API](https://img.shields.io/badge/Live_API-Render-blue)](https://queuestorm-investigator-2.onrender.com)
-[![Python](https://img.shields.io/badge/Python-3.11.10-blue)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-green)](https://fastapi.tiangolo.com)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+[![Live API](https://queuestorm-investigator-2.onrender.com)
+[![Python](https://python.org)
+[![FastAPI](https://fastapi.tiangolo.com)
+[![License](LICENSE)
 
 ---
 
