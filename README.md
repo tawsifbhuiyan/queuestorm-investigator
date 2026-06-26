@@ -382,7 +382,7 @@ curl -X POST https://queuestorm-investigator-2.onrender.com/analyze-ticket \
 ```
 
 
-**Built with ❤️ for SUST CSE Carnival 2026**
+
 ```
 
 ---
@@ -404,12 +404,4 @@ curl -X POST https://queuestorm-investigator-2.onrender.com/analyze-ticket \
 
 
 
-## ✅ Checklist Before Submitting
-
-- [ ] Update your GitHub username in the README
-- [ ] Update team name
-- [ ] Verify live URL works
-- [ ] Check all links are correct
-- [ ] Test the sample request works
-- [ ] Commit and push final version
 
