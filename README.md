@@ -215,7 +215,6 @@ The system enforces strict safety rules:
 - ✅ Safe for production use
 
 **Pattern Matching Includes:**
-- English and Bangla keywords
 - Amount extraction
 - Transaction type matching
 - Counterparty relationship detection
