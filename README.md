@@ -45,8 +45,8 @@ This API service:
 
 | Service | URL |
 |---------|-----|
-| **Live API** | [https://queuestorm-investigator-2.onrender.com](https://queuestorm-investigator-2.onrender.com) |
-| **Health Check** | [https://queuestorm-investigator-2.onrender.com/health](https://queuestorm-investigator-2.onrender.com/health) |
+| **Live API** | [https://queuestorm-investigator-2.onrender.com] |
+| **Health Check** | [https://queuestorm-investigator-2.onrender.com/health] |
 
 ### Quick Test
 
