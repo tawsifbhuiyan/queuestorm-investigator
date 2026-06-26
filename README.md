@@ -340,13 +340,6 @@ curl -X POST https://queuestorm-investigator-2.onrender.com/analyze-ticket \
       }
     ]
   }'
-```
-
-
-
-```
-
----
 
 
 
